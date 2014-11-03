@@ -1,0 +1,58 @@
+#wrapper { 
+
+			width: 360px;
+			min-height: 640px;
+			Position:absolute;
+		    margin:-29px  -8px;
+
+
+			}
+
+#top { 
+	       	background-image: url('backtop.jpg');
+			width:360px;
+			height: 320px;
+			
+			text-align:center;
+			 margin: 0 auto;
+			}
+			
+#left   {
+            background-image: url('planl.jpg'); 
+			width:180px;
+			height: 320px;
+			background-color: #0971B2;
+			float:left;
+			text-align:center;
+			}
+			
+#right   {
+             background-image: url('actuallyR.jpg');
+			width:180px;
+			height: 320px;
+			background-color: green;
+			float:left;
+			text-align:center;
+			}			
+			
+h1         {
+ 
+             Position:absolute;
+			 top: 80px;
+			 left:137px;
+			 
+			 }
+			 
+p          {
+
+			 Position:absolute;
+			 top: 151px;
+			 left:127px;
+			 }
+			 
+#max  { 
+         
+                position:absolute;
+                top: 436px;
+				left:245px;
+			      }
