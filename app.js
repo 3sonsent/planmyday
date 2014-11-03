@@ -79,7 +79,7 @@ $(document).ready(function(){
 		var max     = data.currently.temperature;
 		$('#current').text(data.currently.summary);
 		$('#temp').text("Feels like: " + data.currently.apparentTemperature);
-				$('#min').text(data.daily.summary);
+		$('#min').text(data.daily.summary);
 		$('#max').text(data.currently.temperature);
 		$('#temp').addClass('degrees');
 		
